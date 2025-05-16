@@ -1,4 +1,4 @@
-Here are all the utils of my version 2 project :-
+Here are all the utils of my version 3 project :-
 
 1. Tensorflow
 2. Pytorch
